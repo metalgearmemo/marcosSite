@@ -541,7 +541,7 @@ header #logo {
 	}
 	
 #logo img {
-	height: 40px;  							/* depending on the logo height */
+	height: 120px;  							/* depending on the logo height */
 	}
 	header.sticky-header #logo img { height: 30px; } 						
 	
@@ -638,7 +638,7 @@ body.loading .loader-logo-name { opacity:1;filter:alpha(opacity=100);-ms-filter:
 body.loading-end .loader-logo-name { top: -60px; opacity:0;filter:alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)"; }
 	
 .page-loader-inner .loader-logo-name img {
-	max-height: 40px;									/* depending on the logo height */
+	max-height: 100px;									/* depending on the logo height */
 	}
 	
 .page-loader-inner h6 { 
